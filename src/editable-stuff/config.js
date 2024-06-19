@@ -15,22 +15,12 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/JainamS7",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/jainamshah.7/",
-    },
+    
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/jainam-shah7/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
-    },
+    
   ],
 };
 
